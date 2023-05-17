@@ -1,4 +1,9 @@
-### Hi there 👋
+### zac cleveland ([ohaizac](ohaizac.dev))
+
+🇳🇿 aotearoa new zealand  
+🧑🏼‍🏫 BSc (majored in compsci and mathematics) from UoA  
+🛠️ enjoys Rust, TypeScript and C  
+💻 Windows and macOS  
 
 <!--
 **zaccnz/zaccnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
