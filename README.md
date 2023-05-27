@@ -1,4 +1,4 @@
-### zac cleveland ([ohaizac](ohaizac.dev))
+### zac cleveland ([ohaizac](https://ohaizac.dev))
 
 🇳🇿 aotearoa new zealand  
 🧑🏼‍🏫 BSc (majored in compsci and mathematics) from UoA  
